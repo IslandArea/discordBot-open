@@ -7,7 +7,7 @@
     - No issues.
     <hr>
     <h4> Contact </h4>
-    <img alt="IslandArea Discord", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - `Soon TM`
+    <img alt="IslandArea Discord", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - <code>Soon TM</code>
     <hr>
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg" alt="JavaScript">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg" alt="NodeJS">
