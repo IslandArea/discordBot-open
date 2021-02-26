@@ -1,7 +1,7 @@
 <div align="center">
     <h2> IslandArea Discord Bot for Testers </h2>
     <br>
-    Repo created for our testers to create issues without leaking any data.
+    Repo created for our testers to create issues without leaking any source data.
     <hr>
     <h4> Current Status </h4>
     - No issues.
