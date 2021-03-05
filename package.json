@@ -1,0 +1,19 @@
+{
+  "name": "discordbot-open",
+  "version": "1.0.0",
+  "description": "Repo for Testers and fans",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IslandArea/discordBot-open.git"
+  },
+  "author": "Czekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IslandArea/discordBot-open/issues"
+  },
+  "homepage": "https://github.com/IslandArea/discordBot-open#readme"
+}
