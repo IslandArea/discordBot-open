@@ -1,3 +1,5 @@
+const langList = require('./modules/langList');
+
 module.exports = {
 
     /**
@@ -10,5 +12,11 @@ module.exports = {
      * @module PL
      * @description Polish (Polski) Language
      */
-    pl: require('./lang/pl.json')
+    pl: require('./lang/pl.json'),
+
+    /**
+     * @module langList
+     * @type {Array}
+     */
+    langList: langList
 }
