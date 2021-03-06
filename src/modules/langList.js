@@ -1,8 +1,9 @@
 const { readdirSync } = require('fs');
+const path = require('path');
 
 let fileNames = [];
 
-readdirSync("src/lang/").filter(fls => fls.endsWith('.json')).forEach(f => {
+readdirSync(path.relative("src/lang/", "/")).filter(fls => fls.endsWith('.json')).forEach(f => {
     fileNames.push(f.slice(0, -5));
 });
 
